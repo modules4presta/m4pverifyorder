@@ -1,0 +1,9 @@
+Witaj,
+
+Twoja lista produktów do weryfikacji:
+{product_list}
+
+Kliknij poniższy link, aby potwierdzić weryfikację:
+{verify_link}
+
+Dziękujemy!
