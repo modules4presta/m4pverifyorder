@@ -74,11 +74,18 @@ class M4pverifyorder extends Module
 
     public function changeOrderState($idOrder, $idOrderStatus)
     {
+        $orderHistory = (new OrderHistory)->changeIdOrderState(
+            (int) $idOrderStatus,
+            (int) $idOrder
+        );
+
+        /*
         $sql = "UPDATE " . _DB_PREFIX_ . "orders
             SET current_state = " . pSQL($idOrderStatus) . "
             WHERE id_order = " . pSQL($idOrder);
 
         return Db::getInstance()->execute($sql);
+        */
     }
 
     private function checkExistOfRequiredOrderAccept($idCustomer)
