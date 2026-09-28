@@ -1,5 +1,0 @@
-Witaj {name},
-
-Zamówienie zostało potwierdzone przez osobę odpowiedzialną.
-
-Dziękujemy!

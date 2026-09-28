@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="module" source-language="en-US" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="2a336b95650244a7b47473c8b5ac80c2">
+        <source>This approval link no longer works</source>
+        <target>Ten link do zatwierdzenia już nie działa</target>
+      </trans-unit>
+      <trans-unit id="1d9fcd3912cd7abcb36343f8779ac59d">
+        <source>The link has expired, the order was already approved, or the address was mistyped.</source>
+        <target>Link wygasł, zamówienie zostało już zatwierdzone albo adres został przekręcony.</target>
+      </trans-unit>
+      <trans-unit id="02d4482d332e1aef3437cd61c9bcc624">
+        <source>Contact us</source>
+        <target>Skontaktuj się z nami</target>
+      </trans-unit>
+      <trans-unit id="f46cfcaac2747eeed4b8a7ff3ad9d3cc">
+        <source>Order approved</source>
+        <target>Zamówienie zatwierdzone</target>
+      </trans-unit>
+      <trans-unit id="88c88f7fde7da3ed4092d8d360fbac7f">
+        <source>Order %reference% has been approved and is now being processed.</source>
+        <target>Zamówienie %reference% zostało zatwierdzone i jest już realizowane.</target>
+      </trans-unit>
+      <trans-unit id="89a00d653df32e2ae7374bf140d9c477">
+        <source>The order has been approved and is now being processed.</source>
+        <target>Zamówienie zostało zatwierdzone i jest już realizowane.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

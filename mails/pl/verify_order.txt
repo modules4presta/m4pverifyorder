@@ -1,0 +1,8 @@
+Zamówienie czeka na Twoje zatwierdzenie - {shop_name}
+
+{customer_name} złożył zamówienie {order_reference} w sklepie {shop_name} na kwotę {order_total}.
+Zamówienie czeka na Twoją decyzję.
+
+Zatwierdź je tutaj: {verify_link}
+
+Jeśli nie rozpoznajesz tego zamówienia, zignoruj tę wiadomość — zamówienie pozostanie wstrzymane.

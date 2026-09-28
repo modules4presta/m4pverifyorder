@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>m4pverifyorder</name>
+	<displayName><![CDATA[M4P Order Approval]]></displayName>
+	<version><![CDATA[2.0.0]]></version>
+	<description><![CDATA[Holds an order until the person responsible at the customer company approves it by e-mail.]]></description>
+	<author><![CDATA[Modules4Presta]]></author>
+	<tab><![CDATA[checkout]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+</module>

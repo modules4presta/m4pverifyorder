@@ -1,0 +1,9 @@
+Twoje zamówienie zostało zatwierdzone - {shop_name}
+
+Witaj {firstname} {lastname},
+
+Zamówienie {order_reference} zostało zatwierdzone przez osobę odpowiedzialną w Twojej firmie
+i jest już realizowane.
+
+Pozdrawiamy,
+{shop_name}

@@ -1,0 +1,8 @@
+An order is waiting for your approval - {shop_name}
+
+{customer_name} has placed order {order_reference} at {shop_name} for {order_total}.
+The order is on hold until you approve it.
+
+Approve it here: {verify_link}
+
+If you do not recognise this order, ignore this message and the order stays on hold.

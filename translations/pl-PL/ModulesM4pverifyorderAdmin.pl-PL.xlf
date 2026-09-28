@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="module" source-language="en-US" target-language="pl-PL" datatype="plaintext">
+    <body>
+      <trans-unit id="92a64394cf2bad1b51f5ee69349d9be5">
+        <source>Order approval</source>
+        <target>Zatwierdzanie zamówień</target>
+      </trans-unit>
+      <trans-unit id="bd445e69b1cb9de1740ff64aff00ce16">
+        <source>Holds an order until the person responsible at the customer company approves it by e-mail.</source>
+        <target>Wstrzymuje zamówienie do czasu zatwierdzenia mailem przez osobę odpowiedzialną w firmie klienta.</target>
+      </trans-unit>
+      <trans-unit id="e2c32d9862cdaf15d96dab1c2eb12c69">
+        <source>The link has to stay valid between 1 and 365 days.</source>
+        <target>Link musi być ważny od 1 do 365 dni.</target>
+      </trans-unit>
+      <trans-unit id="f38f5974cdc23279ffe6d203641a8bdf">
+        <source>Settings updated.</source>
+        <target>Ustawienia zapisane.</target>
+      </trans-unit>
+      <trans-unit id="5aa053bd5ceb06cd33f02292625d7f59">
+        <source>Approval settings</source>
+        <target>Ustawienia zatwierdzania</target>
+      </trans-unit>
+      <trans-unit id="057711e18fa48d47974ca77773ef0294">
+        <source>Days the approval link stays valid</source>
+        <target>Ile dni działa link do zatwierdzenia</target>
+      </trans-unit>
+      <trans-unit id="aea99a8a610cb29aeeb309b10af8d815">
+        <source>After that, the link stops working and the order has to be approved in the back office.</source>
+        <target>Po tym czasie link przestaje działać i zamówienie trzeba zatwierdzić w panelu.</target>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Zapisz</target>
+      </trans-unit>
+      <trans-unit id="496babc933daa86708332e6db96a56d8">
+        <source>An order is waiting for your approval</source>
+        <target>Zamówienie czeka na Twoje zatwierdzenie</target>
+      </trans-unit>
+      <trans-unit id="1d338c9f4fcf1e175f896e846864522d">
+        <source>Your order has been approved</source>
+        <target>Twoje zamówienie zostało zatwierdzone</target>
+      </trans-unit>
+      <trans-unit id="e174bb70d250cf198ede2dc26d84e0dc">
+        <source>Unknown customer.</source>
+        <target>Nie ma takiego klienta.</target>
+      </trans-unit>
+      <trans-unit id="b393c24f84f53488c81e3fec780dc792">
+        <source>Enter a valid e-mail address for the person approving the orders.</source>
+        <target>Podaj poprawny adres e-mail osoby zatwierdzającej zamówienia.</target>
+      </trans-unit>
+      <trans-unit id="d1d61189f400efcc5869ad1325176111">
+        <source>Orders from this customer need approval</source>
+        <target>Zamówienia tego klienta wymagają zatwierdzenia</target>
+      </trans-unit>
+      <trans-unit id="253ddf486298f695d6e5eecf7c447e81">
+        <source>E-mail of the person approving them</source>
+        <target>E-mail osoby zatwierdzającej</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

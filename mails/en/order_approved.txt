@@ -1,0 +1,9 @@
+Your order has been approved - {shop_name}
+
+Hello {firstname} {lastname},
+
+Order {order_reference} has been approved by the person responsible at your company
+and is now being processed.
+
+Kind regards,
+{shop_name}
